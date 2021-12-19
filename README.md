@@ -32,3 +32,10 @@ su orientación religiosa o política, dados sus fundamentos y las reglas simple
 Con todas estas consideraciones en mente se debe escribir un programa que dada una fecha en México, calcule
 el día siguiente usando las reglas enunciadas anteriormente
 
+![image](https://user-images.githubusercontent.com/90359568/146662786-c0be936a-0d8d-4433-ba23-69d97758a84b.png)
+
+Entre cada campo se deberà dejar un espacio en blanco. El resultado se mostrará respetando plenamente el
+formato presentado
+La respuesta deberá venir en una sola línea sin salto de linea al final de la misma.
+El programa debe retornar el valor de 0 al sistema operativo.
+
